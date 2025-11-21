@@ -1,7 +1,7 @@
 # SEP-0000: MCP Apps: Interactive User Interfaces for MCP
 
 **Track:** Extensions  
-**Authors:** Ido Salomon, Liad Yosef, Olivier Chafik, Jonathan Hefner, Anton Pidkuiko, Nick Cooper, Bryan Ashley, Alexei Christakis  
+**Authors:** Ido Salomon, Liad Yosef, Olivier Chafik, Jerome Swannack, Jonathan Hefner, Anton Pidkuiko, Nick Cooper, Bryan Ashley, Alexei Christakis  
 **Status:** Draft  
 **Created:** 2025-11-21
 
